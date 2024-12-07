@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HttpClientEndpointsTabState">
+    <option name="requestToText" value="&lt;CachedHttpClientTabRequests&gt;&#10;  &lt;entry key=&quot;913da7707bef0e5d2062787a0e51a58461e7cabb&quot; value=&quot;###&amp;#10;POST http://localhost:8000/api/tasks/&quot; /&gt;&#10;  &lt;entry key=&quot;9d2e576c23cab20b0c389db8844017ef58e7a585&quot; value=&quot;###&amp;#10;GET http://localhost:8000/api/tasks/&quot; /&gt;&#10;&lt;/CachedHttpClientTabRequests&gt;" />
+  </component>
+</project>
